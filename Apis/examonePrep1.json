@@ -1,0 +1,94 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "choose": "A car door is mode of ........",
+      "answor1": "wood",
+      "answor2": "metal",
+      "answor3": "leather",
+      "answor4": "cotton",
+      "answorTrue": "metal"
+    },
+    {
+      "id": 2,
+      "choose": "Car windows are mode of........",
+      "answor1": "plastic",
+      "answor2": "sand",
+      "answor3": "stone",
+      "answor4": "glass",
+      "answorTrue": "glass"
+    },
+    {
+      "id": 3,
+      "choose": "I read a/an ...... about the most dangerous sea animals.",
+      "answor1": "diary",
+      "answor2": "articl",
+      "answor3": "title",
+      "answor4": "interview",
+      "answorTrue": "articl"
+    },
+    {
+      "id": 4,
+      "choose": "To ...... is to put something over something else to protect or hide it.",
+      "answor1": "pay",
+      "answor2": "stay",
+      "answor3": "leave",
+      "answor4": "cover",
+      "answorTrue": "cover"
+    },
+    {
+      "id": 5,
+      "choose": "Let's ...... two pyramids in Egypt, the Great Pyramid of Giza with the Red Pyramid.",
+      "answor1": "visit",
+      "answor2": "measure",
+      "answor3": "compare",
+      "answor4": "guess",
+      "answorTrue": "compare"
+    },
+    {
+      "id": 6,
+      "choose": "Your father's father is your ........ .",
+      "answor1": "grandmother",
+      "answor2": "cousin",
+      "answor3": "grandfather",
+      "answor4": "brother",
+      "answorTrue": "grandfather"
+    },
+    {
+      "id": 7,
+      "choose": "Throw the ball to ........, please. I'm waiting.",
+      "answor1": "me",
+      "answor2": "my",
+      "answor3": "I",
+      "answor4": "mine",
+      "answorTrue": "me"
+    },
+    {
+      "id": 8,
+      "choose": "Clap for football players. ........ played very well.",
+      "answor1": "Them",
+      "answor2": "They",
+      "answor3": "Their",
+      "answor4": "Theirs",
+      "answorTrue": "They"
+    },
+    {
+      "id": 9,
+      "choose": "Heidi's aunt arrives and ........ her to the city.",
+      "answor1": "makes",
+      "answor2": "gives",
+      "answor3": "takes",
+      "answor4": "talks",
+      "answorTrue": "takes"
+    },
+    {
+      "id": 10,
+      "choose": "He doesn't .......... to music.",
+      "answor1": "listens",
+      "answor2": "listen",
+      "answor3": "listening",
+      "answor4": "listened",
+      "answorTrue": "listen"
+    }
+  ]
+}
